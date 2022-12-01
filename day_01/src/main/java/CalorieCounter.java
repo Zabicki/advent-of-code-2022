@@ -7,7 +7,7 @@ import java.util.List;
 
 public class CalorieCounter {
 
-    private static final String INPUT_PATH = "src/main/resources/input.txt";
+    private static final String INPUT_PATH = "day_01/src/main/resources/input.txt";
 
     public static void main(String[] args) throws IOException {
         CalorieCounter counter = new CalorieCounter();
