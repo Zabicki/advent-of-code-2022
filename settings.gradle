@@ -1,3 +1,5 @@
 rootProject.name = 'advent_of_code'
 include 'day_01'
+include 'day_02'
+include 'day_03'
 
